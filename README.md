@@ -6,7 +6,7 @@ A simple, secure, and functional to-do list web application built with Flask, SQ
 ![Login Page](https://i.ibb.co/bjgt50GQ/Screenshot-2025-06-15-161120.png)
 
 ### ✅ Task Management Page
-![Task View](https://i.ibb.co/zWBPYMfG/Screenshot-2025-06-15-161108.png)
+![Task View](https://i.ibb.co/fV7gDtZj/Screenshot-2025-06-15-163927.png)
 
 ## 🌐 Live Demo
 
