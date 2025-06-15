@@ -2,10 +2,15 @@
 
 A simple, secure, and functional to-do list web application built with Flask, SQLAlchemy, and Jinja2. This app supports user authentication and task management, and is deployed live using **Railway**.
 
+### 🔐 Login Page
+![Login Page](https://i.ibb.co/bjgt50GQ/Screenshot-2025-06-15-161120.png)
+
+### ✅ Task Management Page
+![Task View](https://i.ibb.co/zWBPYMfG/Screenshot-2025-06-15-161108.png)
+
 ## 🌐 Live Demo
 
 👉 [Click here to try the live app](https://advancetodoapp-production.up.railway.app/login)  
-*(Replace with your actual Railway URL)*
 
 ---
 
@@ -32,5 +37,5 @@ A simple, secure, and functional to-do list web application built with Flask, SQ
 
 ---
 
-## 📁 Folder Structure
+
 
